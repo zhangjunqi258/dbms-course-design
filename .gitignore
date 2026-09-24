@@ -1,0 +1,16 @@
+# 编译产物
+*.exe
+*.o
+*.obj
+
+# 运行时生成的数据库文件（示例数据，可自行保留）
+*.dbf
+*.dat
+
+# 临时/测试文件
+.cowork-temp/
+test_in.txt
+test_out.txt
+test_raw.txt
+test_err.txt
+*.tmp
